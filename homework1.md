@@ -8,9 +8,8 @@ MongoDB я устанавливал через [официальный сайт]
 
 ## Создание БД и заполнение данными
 
-Датасет я взял [отсюда](https://habr.com/ru/company/edison/blog/480408/); решил выбрать вариант [Jeopardy Dataset](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/?rdt=47595)— более 200 000 записей «вопрос-ответ» из популярной телевизионной игры. Итого вот как это отображается в MongoDBCompass:
+Датасет я взял [отсюда](https://habr.com/ru/company/edison/blog/480408/); решил выбрать вариант [Wine quality dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)— более 6 000 записей с характеристиками вин. Итого вот как это отображается в MongoDBCompass:
 
-![Текст с описанием картинки](HW1-2.png)
 
 ## Операции
 
