@@ -30,7 +30,7 @@
 Здесь показаны выполняемые команды и затраченное время.
 
 ![Текст с описанием картинки](https://sun1-99.userapi.com/impg/6lAej04YZUksQZv8VHRapRU024nAwR2oSlzaxQ/HKfX7D73Lzg.jpg?size=846x432&quality=96&sign=dc2af51c83db9fc3716405cdf8e15c4b&type=album)
-![Текст с описанием картинки](/images/HW3-10.pnghttps://sun1-55.userapi.com/impg/di8nKoi4DTIzRndvN81a0TtFsQ4kkUKbkB5rBA/S6O-24z07ak.jpg?size=712x320&quality=96&sign=6f7227a852f7fe1d76db05102ec6665f&type=album)
+![Текст с описанием картинки](https://sun1-55.userapi.com/impg/di8nKoi4DTIzRndvN81a0TtFsQ4kkUKbkB5rBA/S6O-24z07ak.jpg?size=712x320&quality=96&sign=6f7227a852f7fe1d76db05102ec6665f&type=album)
 
 ## Подведем итоги
 
