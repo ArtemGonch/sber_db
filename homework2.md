@@ -1,4 +1,4 @@
-# Знакомство с Redis и Radis-cluster
+# Знакомство с Redis и Redis-cluster
 
 ## Установка
 
