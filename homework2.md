@@ -15,6 +15,7 @@
 ![configs](https://sun9-6.userapi.com/impg/kZ4G177XNU4wpP3jbiQa9CwIXBVpijCVZg5mLw/t3Up_XYNPeo.jpg?size=1901x800&quality=96&sign=32fd27c91b8059afcd0c3c2004eb6a23&type=album)
 ![Текст с описанием картинки](https://sun9-39.userapi.com/impg/mApvpQj-EyhyzGIWnOPoco_mJwxw9EmWr_4fdw/8xgV5iCb_jU.jpg?size=1552x397&quality=96&sign=390e0601bcd0db4e2293668b6734c005&type=album)
 ![Текст с описанием картинки](https://sun9-20.userapi.com/impg/K7ntNftDEpw7N659Bbq8iORp5Ip85NZbYyNMvg/utJBouDHqmY.jpg?size=1600x592&quality=96&sign=e8e8e2c2b19a7b59d0b8b31b8fc26ae8&type=album)
+![Текст с описанием картинки](https://sun9-47.userapi.com/impg/4vnoPdBVaF2UUWginEn2Db9XSk0ytS1D459-Ig/QoXEWf41bhM.jpg?size=1886x927&quality=96&sign=c25aa1c4dae70a1f5b9654e357da7728&type=album)
 
 Теперь можно приступить к написанию команд на питоне(использовался notebook)
 
