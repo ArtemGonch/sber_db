@@ -32,4 +32,4 @@
 
 Фамилия и имя все равно отображаются.
 
-Сохраним страницу в файле [PouchDB.html](/files_3/PouchDB.html)
+Сохраним страницу в файле [PouchDB.html](/file_3/PouchDB.html)
